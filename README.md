@@ -57,7 +57,8 @@ This project demonstrates an end-to-end Blue Team workflow, from attack detectio
 
 ---
 
-<img width="1536" height="1024" alt="wazuh" src="https://github.com/user-attachments/assets/7a1af18b-2c1e-4788-b168-30aa003bbd51" />
+<img width="1535" height="1024" alt="wazuh" src="https://github.com/user-attachments/assets/830df112-b792-4e48-be2c-1f528e450fe2" />
+
 
 
 ---
