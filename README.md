@@ -1,6 +1,4 @@
-# Endpoint-Threat-Detection-and-File-Integrity-Monitoring-using-Wazuh
-# 🛡️ Automated Threat Detection & File Integrity Monitoring using Wazuh
-
+# 🛡️Endpoint-Threat-Detection-and-File-Integrity-Monitoring-using-Wazuh
 <p align="center">
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-XDR%20%7C%20SIEM-blue?style=for-the-badge&logo=wazuh)
@@ -59,9 +57,8 @@ This project demonstrates an end-to-end Blue Team workflow, from attack detectio
 
 ---
 
-# 🔄 Detection Workflow
+<img width="1536" height="1024" alt="wazuh" src="https://github.com/user-attachments/assets/7a1af18b-2c1e-4788-b168-30aa003bbd51" />
 
-(Place the workflow diagram here.)
 
 ---
 
@@ -138,12 +135,6 @@ The project validates detections mapped to the MITRE ATT&CK Framework, including
 - Validated detections against MITRE ATT&CK techniques
 - Correlated endpoint events across Linux and Windows systems
 - Performed SOC-style investigation using the Wazuh Dashboard
-
----
-
-# 
-
-<img width="1536" height="1024" alt="wazuh" src="https://github.com/user-attachments/assets/7a1af18b-2c1e-4788-b168-30aa003bbd51" />
 
 
 ---
